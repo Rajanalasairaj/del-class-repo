@@ -1,0 +1,6 @@
+GIT-Steps
+1.create a git repo
+2.generate token
+3.clone repository
+   -git clone[repo-link]
+4. 
